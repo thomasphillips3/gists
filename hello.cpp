@@ -1,4 +1,4 @@
-// hello.cpp
+// hello2.cpp
 // Author: Thomas Phillips
 // Description: Prompt the user for a phrase, and number of times to repeat.
 // Get the phrase, number of lines, and number of times to repeat from the user.

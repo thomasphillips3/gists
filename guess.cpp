@@ -18,7 +18,7 @@ int main() {
   int guess;
 
   do {
-    cout << "Guess a number: ";
+    cout << "Guess a number up to " << CEILING << ": ";
     while (!(cin >> guess) || guess < 0) {
       cerr << "Bad input." << endl;
       cin.clear();
